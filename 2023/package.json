@@ -1,0 +1,15 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "description": "My version :)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --watch"
+  },
+  "author": "Renan Marangon",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
